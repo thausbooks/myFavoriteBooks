@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Favorite Books</title>
+</head>
+<body>
+    <main>
+    <h1> My top 4 favorite books of all time! </h1>
+    <p> Hello! Even if I have not lived many years yet, I do have some books that grew up with me – and also helped me in the process of stepping into adulthood – that are worth the share, so they can inspire other people to give them a chance. Some are very known, and some other may not be that popular around the world, but here goes my list:</p>
+<ul>
+     <li> Percy Jackson and the Olympians: The Lighting Thief, by Rick Riordan <br>
+     <li> Toda Poesia, by Paulo Leminski <br>
+     <li> Metamorphosis, by Franz Kafka <br>
+     <li> Laços de Família, by Clarice Lispector <br>
+</ul>
+<h3>
+    Percy Jackson and the Olympians: The Lighting Thief, by Rick Riordan 
+</h3>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg" alt="The First Book of the series Percy Jackson and the Olympians in its original cover" width="350">
+<p>
+Although it was originally written for a public made of children, this book and its sequels took great proportions in the year that followed its first publication &#40;as seen recently on Disney&#43; &#41;. This book, specifically the first one in the series, conquered its first place because not only I was obcessed with greek mithology as a teenager, but because Percy was more than just a character for me as him and I grew old in the same path. Loving this book made me start friendships, engage in conversations in school and overall granted so much fun over my most weird years. Thanks, Percy!
+</p>
+<p>
+    <a href="https://en.wikipedia.org/wiki/Rick_Riordan">Rick Riordan</a> is the North-American author behind titles such as Percy Jackson and the Olympians, The Kane Chronicles, Magnus Chase and the Gods of Asgard, among others. 
+</p>
+<br>
+<h3>
+     Toda Poesia, by Paulo Leminski 
+</h3>
+<img src="https://m.media-amazon.com/images/I/71ql6O9zlNL._AC_UF1000,1000_QL80_.jpg" alt="The Toda Poesia book brazilian cover" width="350">
+<p>
+I had this book in hands for the first time when I was in my freshman year of high school. My literature professor was a huge fan of Paulo Leminski, a guy that writes all kinds of poetry – even the ones you are not familiar with, such as many haikai and visual poems. Plus, Leminski always has a poem for whatever feelings you may have, from euphoria to deep self deprecation. Definitely worth the try!
+</p>
+<p>
+    <a href="https://en.wikipedia.org/wiki/Paulo_Leminski">Paulo Leminski</a> is a brazilian poet that took part in the contemporary poetry movement. 
+</p>
+<br>
+<h3>
+     Metamorphosis, by Franz Kafka 
+</h3>
+<img src="https://m.media-amazon.com/images/I/71mFnG3Bn3L._AC_UF1000,1000_QL80_.jpg" alt="The brazilian edition cover of Metamorphosis, published by Antofágica" width="350">
+<p>
+This one is obviously a classic, but I think it's always worth the share, especially for those who are not very much into literature yet. In a few pages, Kafka tells the story of a man who is suddenly turned into a bug and has not use to his family anymore. This situation describes feelings of inadequacy and loneliness as no author has done before – and certainly will not do after. 
+</p>
+<p>
+    <a href="https://en.wikipedia.org/wiki/Franz_Kafka">Franz Kafka</a> is a czech writer (as is was still part of the Austro Hungarian Empire) that spent most of his life isolating. He had few friends, never married and wished that his books and tales were never turned public, and even burned some manuscripts himself because of it. 
+</p>
+<br>
+<h3>
+     Laços de Família, by Clarice Lispector 
+</h3>
+<img src="https://www2.unicentro.br/pet-letras/files/2017/08/maxresdefault.jpg?x84615" alt="The Laços de Família book cover portraits a character from one of the tales written by Clarice" width="350">
+<p>
+This book is very short, as it is a compilation of tales written by Clarice. Even thought they may seen shallow at first glance, they carry so many layers underneath, and you may experience many feelings of frustration but also joy savoring every word and its bittersweet meaning beneath words. When I reached the final pages, I was a totally different person from when I started the reading.
+</p>
+<p>
+    <a href="https://en.wikipedia.org/wiki/Clarice_Lispector">Clarice Lispector</a> is a brazilian writer, originally born in Ucraine. She is considered one of the best writers of portuguese language of all time, and is best known for her mysterious behaviour.
+</p>
+<br>
+</main>
+<footer> Copyright &copy; Written by Thaís. These books are not my intellectual property but rather the authors' </footer>
+</body>
+</html>
